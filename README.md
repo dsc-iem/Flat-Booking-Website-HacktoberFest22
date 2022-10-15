@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://blogbook-blog.herokuapp.com/">
-        <img src="https://raw.githubusercontent.com/chaitak-gorai/Project-Template-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.sv" alt="[Project Logo]" width="30%"> 
+        <img src="https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/Hfest-Logo-2-Color-Manga.svg" alt="[Project Logo]" width="30%"> 
     </a>
 </p> 
 
@@ -18,7 +18,7 @@ Welcome to.. {PROJECT BASIC INTRODUCTION]
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/chaitak-gorai/Project-Template-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
+        <img src="https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
     </a>
 </p>
 
