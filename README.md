@@ -4,15 +4,25 @@
     </a>
 </p> 
 
-### [Project Title]
+### Smart Flat Registration Website
 Hello,
-Welcome to.. {PROJECT BASIC INTRODUCTION]
-[PROJECT DOMAIN]
-### [PREREQUISITE KNOWLEDGE]
-* List down the technical aspects like HTML, NodeJs, Django
+Welcome to Smart Flat Registration Website.<br>
+PROJECT DOMAIN - Its a project based on Full Stack Web Development<br>
+Issuses will be soon be given in this project. After the issue has been solved and pull request is merged, please write the name in Contributors.md {Link Given Below}
 
+### PREREQUISITE KNOWLEDGE: -
+* Spring Boot With JAVA (Back-End)
+* Angular (Front-End)
+* Heroku [for the back-end part as a server](later Firebase maybe used)
+* Netlify [deployment of the front-end part]
+* Database : H2(Embedded Database in Spring Boot. Later MongoDB can be in use.)
 
-
+### Technical Skillset need to have for the issues in future: -
+* <p>Programming Language used: - <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+* <p>Front-End: - <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></p>
+* <p>BaaS: - <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40" /></a>  {Can be used in future}                  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> {Currently in use} </p>
+* <p>Back-End: - <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+* <p>Database: - <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> (Can be used in future with Spring Boot.)</p>
 # Hacktober Fest Accepted 
 
 
@@ -26,10 +36,10 @@ Welcome to.. {PROJECT BASIC INTRODUCTION]
 
 <div align="center">
    
-   [![GitHub issues](https://img.shields.io/github/issues/chaitak-gorai/Project-Template-Hacktoberfest22?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/chaitak-gorai/Project-Template-Hacktoberfest22?style=social&logo=github)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/chaitak-gorai/Project-Template-Hacktoberfest22?logo=git)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/network)
+   [![GitHub issues](https://img.shields.io/github/issues/dsc-iem/SmartFlat-Registration-HacktoberFest22?color=pink&logo=github)](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/dsc-iem/SmartFlat-Registration-HacktoberFest22?style=social&logo=github)](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/dsc-iem/SmartFlat-Registration-HacktoberFest22?logo=git)](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/network)
    
-   <a href="https://github.com/chaitak-gorai/blogbook/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348"></a>
-<a href="https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
+   <a href="https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dsc-iem/SmartFlat-Registration-HacktoberFest22?color=2b9348"></a>
+<a href="https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dsc-iem/SmartFlat-Registration-HacktoberFest22?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
@@ -46,8 +56,8 @@ Welcome to.. {PROJECT BASIC INTRODUCTION]
 ---
 
 # Contribute
-   ### Do Read - [Code of Conduct](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/CODE_OF_CONDUCT.md)
-   ### Jump to - [Contribute.md](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/CONTRIBUTE.md) (updated)
+   ### Do Read - [Code of Conduct](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/CODE_OF_CONDUCT.md)
+   ### Jump to - [Contribute.md](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/CONTRIBUTE.md) (updated)
 Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues.
 
 ## Steps for a successful commit :zap:
@@ -61,13 +71,13 @@ Why not start your open source journey by merging some codes here. It will be ve
 
  ### Ways to Contribute 
   * Find a bug by running the project locally
-  * Solve the [issues](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/issues) which are already set up
+  * Solve the [issues](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/issues) which are already set up
   * Sugget some change or create your own isssue
   *  Create documentation like site structure, how to write a blog,etc
   *  Indent/Beautify/Modify codes.
 
 ### List of Contributors
-   Jump to [Contributors.md](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/contributors.md)
+   Jump to [Contributors.md](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/contributors.md)
    
 ### Live project link
 * Heroku - [Project Link]
