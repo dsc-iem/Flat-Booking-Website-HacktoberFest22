@@ -17,7 +17,7 @@
    * copy the repo link
    * open git bash or command prompt and run the code 
        ```
-       git clone <repo lin>
+       git clone <repo link>
        ```
 ## Running the project
 1. Mention down the points how to run the project locally.
