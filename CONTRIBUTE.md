@@ -1,5 +1,6 @@
 # Smart Flat Registration- Contributions
-
+* Arpan Ghosh (@arpanghosh2416) - Made the Architecture layer with Entity and Repository Layer.
+* Mriganka Paul (@mriganka56) - 1)Contributed the Service Layer and its implementation.<br> 2) Contributed to the Security Layer.
 
 ## Prerequisite
 * [Git](https://git-scm.com/downloads) 
@@ -27,7 +28,9 @@
 Like you want the contibutors to directly contibute in the main branch or create a separate branch for new PR.
 
 ## Recent updates
-[Mention any updates]
+* Made the Architecture layer with Entity and Repository Layer.
+* Contributed the Service Layer and its implementation.
+*  Contributed to the Security Layer.
 
 ## Any Other Info needed for the Contributions.
 ### Technical Skillset need to have for the issues in future: -
