@@ -4,9 +4,9 @@
     </a>
 </p> 
 
-### Smart Flat Registration Website
+### Flat Booking Website
 Hello,
-Welcome to Smart Flat Registration Website.<br>
+Welcome to Flat Booking Website.<br>
 PROJECT DOMAIN - Its a project based on Full Stack Web Development<br>
 Issuses will be soon be given in this project. After the issue has been solved and pull request is merged, please write the name in Contributors.md {Link Given Below}
 
