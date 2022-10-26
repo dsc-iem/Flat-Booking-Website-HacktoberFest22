@@ -1,6 +1,10 @@
 # Smart Flat Registration- Contributions
 * Arpan Ghosh (@arpanghosh2416) - Made the Architecture layer with Entity and Repository Layer.
-* Mriganka Paul (@mriganka56) - 1)Contributed the Service Layer and its implementation.<br> 2) Contributed to the Security Layer.
+* Mriganka Paul (@mriganka56) - 
+1)Contributed the Service Layer and its implementation.<br>2)Contributed to the Security Layer.<br>3)Contributed to the Exception and Exception Handling part.<br>
+4)Contributed to the Controller Layer.<br>5)Contributed to the Custom id generation and JWT token along with Authorization guard.
+* Supratim Majumder (@supratim531) -
+1)Contributed to the Angular Structure.<br>
 
 ## Prerequisite
 * [Git](https://git-scm.com/downloads) 
