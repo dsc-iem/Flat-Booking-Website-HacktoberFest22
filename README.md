@@ -80,8 +80,8 @@ Why not start your open source journey by merging some codes here. It will be ve
    Jump to [Contributors.md](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/contributors.md)
    
 ### Live project link
-* Heroku - [Project Link]
-* Website - [Project Link]
+* Heroku - [Project Link](https://flatregister.herokuapp.com)
+* Website - [Project Link](https://flatregister.netlify.app)
 
 
 
