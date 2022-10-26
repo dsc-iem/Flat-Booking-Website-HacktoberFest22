@@ -82,8 +82,7 @@ Why not start your open source journey by merging some codes here. It will be ve
 ### Live project link
 * Heroku - [Project Link](https://flatregister.herokuapp.com)
 * Website - [Project Link](https://flatregister.netlify.app)
-
-
+Click the Heroku link first to load the server and then click on the Website Link.
 
 Thank You! Keep Contributing :octocat:
 
