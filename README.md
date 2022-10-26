@@ -77,7 +77,7 @@ Why not start your open source journey by merging some codes here. It will be ve
   *  Indent/Beautify/Modify codes.
 
 ### List of Contributors
-   Jump to [Contributors.md](https://github.com/dsc-iem/SmartFlat-Registration-HacktoberFest22/blob/main/contributors.md)
+   Jump to [Contributors.md](https://github.com/dsc-iem/Flat-Booking-Website-HacktoberFest22/blob/main/CONTRIBUTE.md)
    
 ### Live project link
 * Heroku - [Project Link](https://flatregister.herokuapp.com)
