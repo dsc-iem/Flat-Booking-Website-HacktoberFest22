@@ -1,10 +1,12 @@
 # Smart Flat Registration- Contributions
 * Arpan Ghosh (@arpanghosh2416) - Made the Architecture layer with Entity and Repository Layer.
-* Mriganka Paul (@mriganka56) - 
+* Mriganka Paul (@mriganka56) -<br> 
 1)Contributed the Service Layer and its implementation.<br>2)Contributed to the Security Layer.<br>3)Contributed to the Exception and Exception Handling part.<br>
 4)Contributed to the Controller Layer.<br>5)Contributed to the Custom id generation and JWT token along with Authorization guard.
-* Supratim Majumder (@supratim531) -
-1)Contributed to the Angular Structure.<br>
+* Supratim Majumder (@supratim531) -<br>
+1)Contributed to the Angular Structure.<br>2)Contributed to the component layer for website details (about,conatct,flat-view,footer,home,login,register,navbar,owner-register,no-page,owner-list)<br>3)Contributed to the Guard class for the guard and authorization of URL.(admin,deauth,auth,owner).<br>4)Contributed to the interceptor layer.<br>4)Contributed to the Service layer for API consuming from backend part(auth,feedback,flat,owner,JWT-token,user)
+* Anikte Shaw (@)-<br>
+1)Contributing to the voice assistant part for further enhancement.
 
 ## Prerequisite
 * [Git](https://git-scm.com/downloads) 
